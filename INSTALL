@@ -1,0 +1,15 @@
+Installation instructions for Test::Timer
+
+The distribtution can be downloaded from:
+
+- CPAN: https://cpan.metacpan.org/authors/id/J/JO/JONASBN/Test-Timer-2.09.tar.gz
+- GitHub: https://github.com/jonasbn/perl-test-timer/archive/master.zip
+
+Installation from CPAN:
+
+Installation from zip-file:
+
+$ tar xvzf Test-Timer
+$ perl Makefile.PL
+$ make install
+
